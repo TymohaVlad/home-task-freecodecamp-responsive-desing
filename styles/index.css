@@ -169,5 +169,15 @@ main .main__about{
     background: url(../img/icon.png) 0px no-repeat;
     padding-left: 25px;
     margin-top: 10px; 
+}
+.footer__container{
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.list{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 
 }
